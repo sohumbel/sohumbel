@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sohumbel
 - 👀 I’m interested in Computer Science, Web Design and Development, Frontend Development
-- 🌱 I’m currently learning Computer Science in High School
+- 🌱 I’m currently pursuing a BS in Computer Science at the University of Maryland, College Park
 - 💞️ I’m looking to collaborate on and learn how to code Apps and Websites Frontend and Backend
 - 📫 How to reach me: by email at sohumbel@gmail.com
 
