@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sohumbel
-- 👀 I’m interested in Computer Science, Web Design and Development, Full Stack Development
-- 🌱 I’m currently pursuing a BS in Computer Science at the University of Maryland, College Park
-- 💞️ I’m looking to collaborate on and learn how to code Apps and Websites Frontend and Backend
+- 👀 I’m interested in Computer Science, Full Stack Development, Machine Learning, and Artificial Intelligence
+- 🌱 I’m currently pursuing a BS in Computer Science and Minor in Innovation & Entrepreneurship at the University of Maryland, College Park
 - 📫 How to reach me: by email at sohumbel@gmail.com
 
 <!---
